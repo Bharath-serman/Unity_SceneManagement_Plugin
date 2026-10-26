@@ -1,0 +1,30 @@
+{
+  "name": "com.scenesentry.toolkit",
+  "version": "1.0.1",
+  "displayName": "SceneSentry",
+  "description": "SceneSentry - Find it. Check it. Fix it. A complete Unity 6 productivity toolkit combining multi-tagging, scene exploration, and automated scene validation.",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/scenesentry/scenesentry/blob/main/Documentation~/UserGuide.md",
+  "changelogUrl": "https://github.com/scenesentry/scenesentry/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/scenesentry/scenesentry/blob/main/LICENSE",
+  "keywords": [
+    "tags",
+    "scene",
+    "validation",
+    "analyzer",
+    "explorer",
+    "hierarchy",
+    "productivity",
+    "utilities"
+  ],
+  "author": {
+    "name": "LastLife Studios",
+    "url": "https://github.com/Bharath-serman",
+    "email": "bharathserman@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  }
+}

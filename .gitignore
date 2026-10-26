@@ -1,0 +1,98 @@
+# ==========================================
+# SceneSentry - Unity 6 Plugin
+# ==========================================
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity build outputs
+[Bb]uild/
+[Bb]uilds/
+[Dd]ist/
+ExportedObj/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# IDE folders and settings
+.vs/
+.vscode/
+.idea/
+*.sln.iml
+
+# Visual Studio cache
+.vsconfig
+*.VC.db-shm
+*.VC.db-wal
+
+# Rider
+.idea/
+*.sln.DotSettings.user
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Crash dumps
+sysinfo.txt
+*.stackdump
+crash.dmp
+
+# Temporary and backup files
+*.bak
+*.old
+*.orig
+*.swp
+*.swo
+*~
+
+# Coverage and test outputs
+TestResults/
+coverage/
+coverage-results/
+.nyc_output/
+
+# Package manager and tooling caches
+.npm/
+.eslintcache
+.cache/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+Assets/Plugins/Editor/AssetStoreTools*
+
+# ==========================================
+# End of SceneSentry .gitignore
+# ==========================================
