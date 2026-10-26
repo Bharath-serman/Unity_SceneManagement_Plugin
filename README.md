@@ -71,7 +71,7 @@ In complex Unity projects, scenes quickly accumulate hundreds or thousands of Ga
 ### Via Git URL
 1. In Unity, open **Window > Package Manager**.
 2. Click **+ > Add package from git URL...**.
-3. Enter your repository URL (e.g. `https://github.com/your-org/scenesentry.git`).
+3. Enter the repository URL (e.g. `https://github.com/Bharath-serman/Unity_SceneManagement_Plugin`).
 
 ---
 
