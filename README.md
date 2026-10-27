@@ -38,7 +38,7 @@ In complex Unity projects, scenes quickly accumulate hundreds or thousands of Ga
   - Cached search engine prevents UI lag and avoids rescanning on Editor repaints.
 - **Scene Analyzer (Core Differentiating Feature)**:
   - 10 built-in validation rules covering missing scripts, broken references, duplicate tags, invalid tag references, tag-component requirements, naming conventions, layer conventions, and unique component IDs.
-  - Three distinct severity levels: 🔴 **Error**, 🟡 **Warning**, and 🔵 **Info**.
+  - Three distinct severity levels: **Error**, **Warning**, and **Info**.
   - Detailed finding reports including affected object, component, rule name, reason, and actionable guidance.
   - Configurable rule system persisted via `SceneSentryRuleConfig`.
   - Extensible: write custom validation rules in C# with automatic reflection discovery.
@@ -71,7 +71,7 @@ In complex Unity projects, scenes quickly accumulate hundreds or thousands of Ga
 ### Via Git URL
 1. In Unity, open **Window > Package Manager**.
 2. Click **+ > Add package from git URL...**.
-3. Enter the repository URL (e.g. `https://github.com/Bharath-serman/Unity_SceneManagement_Plugin`).
+3. Enter the repository URL (`https://github.com/Bharath-serman/Unity_SceneManagement_Plugin`).
 
 ---
 
@@ -193,6 +193,13 @@ To remove SceneSentry from a project:
 2. If you also want to remove generated tag database and rule configuration assets, delete `Assets/SceneSentryData/` from your project.
 
 ---
+
+## ScreenShots
+
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/8a4388f3-ed36-4924-8db2-c2a7ffdfeca7" />
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/78080aa0-a002-4a08-bd7b-cd48cca34d8c" />
+<img width="1919" height="554" alt="image" src="https://github.com/user-attachments/assets/df629974-836e-4db2-ac46-ecffae5c73e9" />
+
 
 ## License
 
